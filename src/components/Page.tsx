@@ -10,9 +10,20 @@ export function Page() {
 		<>
 			<div className="w-80 mx-auto">
 				<Header />
-				<Button title={"Adicionar tarefa"} type={"submit"} icon={<Icon.Airplane size={ 20} weight="bold" className="text-red-400"/>} />
-				<Button title={"Adicionar tarefa"} type={"submit"} icon={<FiPlus size={20} className="stroke-2 text-green-500" />}/>
-
+				<Button
+					title={"Adicionar tarefa"}
+					type={"submit"}
+					icon={
+						<Icon.Airplane size={20} weight="bold" className="text-red-400" />
+					}
+					theme="light"
+				/>
+				<Button
+					title={"Adicionar tarefa"}
+					type={"submit"}
+					icon={<FiPlus size={20} className="stroke-2 text-green-500" />}
+					theme="light"
+				/>
 			</div>
 		</>
 	);
