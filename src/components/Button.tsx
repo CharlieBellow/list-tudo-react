@@ -6,12 +6,12 @@ import { IconBaseProps } from "react-icons";
 interface ButtonProps {
 	title: string;
   type: "button" | "submit" | "reset" | undefined;
-	icon: Icon.IconProps | IconBaseProps;
+	icon?: Icon.IconProps | IconBaseProps;
 	theme: "light" | "dark"
 }
 
 export function Button(props: ButtonProps) {
-  //const ColorTheme = ; 
+  
 
 	return (
 		<div
