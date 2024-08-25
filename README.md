@@ -1,3 +1,10 @@
+![listtudo](https://github.com/user-attachments/assets/129f5bc2-c2c0-48f8-844e-0b7889255517)
+
+
+### List Tudo
+
+O que eu mais gosto e faço no meu dia a dia e organizar minha rotina. Nunca gostei dos apps como o Notion por darem muitas opções e se tornarem complexos. Testei vários mas sempre acabo voltando para os mesmo apps: Microsoft ToDo e Google Agenda. Minha proposta aqui é juntar os dois fazendo um clone do Microsoft ToDo, com algumas melhorias e integrando com o Google Agenda. No video do ![Youtube]([https://github.com/user-attachments/assets/129f5bc2-c2c0-48f8-844e-0b7889255517](https://www.youtube.com/playlist?list=PL3qbpl4OpgMA5Bpj_FpahF6LtSTlIjbsX))Youtube eu explico minha ideia. Esse e um projeto desafiador que tem me feito aprender muito a me virar sozinho. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
